@@ -108,7 +108,3 @@ GPT-6 Sol 和 Luna 深度承袭了 Astra 在模型对齐上的成熟成果。在
 - GPT-6 Sol 和 GPT-6 Luna 已经正式面向 Plus、Pro、Business、Enterprise 以及 Edu 订阅用户开放，可以在 ChatGPT Work 和 Codex 中直接调用。
 - Free 和 Go 用户可以在桌面端应用中使用 GPT-6 Luna。
 - OpenAI API 对应的接口模型名称为 `gpt-6-sol` 与 `gpt-6-luna`。
-
----
-
-本文依据所提供的原文 HTML 整理，正文及数据保留原文表述，图片已保存至本站。原站标注采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议。
