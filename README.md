@@ -11,6 +11,9 @@ OpenAI 沿用了和 [GPT-6 Astra](https://openai.com/zh-Hans-CN/index/gpt-6-astr
 - GPT-6 全系模型在「成本—智能水平」曲线上均保持领先，每个档位的综合表现都足够能打，同时依托高效的底层基础设施，实现了规模化交付。
 - 得益于缓存机制和推理效率的突破，API 的调用成本也大幅下降：Sol 和 Luna 的 API 价格相较 [GPT-5.6](https://www.sysgeek.cn/gpt-5-6/) 促销价直降了 50%。
 
+- ChatGPT GPT-6 国内使用指南：[点击查看](https://www.chatgpt-blog.com/guides/chatgpt/gpt6-sol-luna-api-price-comparison-2026/)  
+- ChatGPT GPT-6 国内博客：[点击查看](https://www.codex-chinese.com/chatgpt/guides/gpt-6-sol-and-luna)
+
 ## GPT-6 API 定价
 
 | 模型 | 输入 | 输出 | 价格降幅 |
